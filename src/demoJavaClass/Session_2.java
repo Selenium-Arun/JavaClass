@@ -5,7 +5,7 @@ import java.util.Scanner;
 //WAP to multiply
 //WAP 
 public class Session_2 {
-
+ 
 	public static void main(String[] args) {
 	
 		Scanner input =new Scanner(System.in);

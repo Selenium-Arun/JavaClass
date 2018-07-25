@@ -13,17 +13,17 @@ package demoJavaClass;
  * 
  */
 public class Session_Two {
-  String my_var = "Java Test";
+   String my_var = "Java Test";
  public static void main(String[] args) {
 	 //Syntax for instanciating the class or create object of the class
 	 //Classname referecename = new clasname
-	/* Session_Two obj = new Session_Two();
+	Session_Two obj = new Session_Two();
 	 Session_Two obj1 = new Session_Two();
 	 Session_Two obj2 = new Session_Two();
 	 
 	 
 	 System.out.println("========================================");
-	 System.out.println(my_var);
+	 System.out.println(obj.my_var);
 	 System.out.println(obj1.my_var);
 	 System.out.println(obj2.my_var);
 	
@@ -32,7 +32,7 @@ public class Session_Two {
 	 System.out.println("========================================");
 	 System.out.println(obj.my_var);
 	 System.out.println(obj1.my_var);
-	 System.out.println(obj2.my_var);*/
+	 System.out.println(obj2.my_var);
 	 
 	//primitive datatypes
 	 

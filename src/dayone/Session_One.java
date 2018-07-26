@@ -1,4 +1,4 @@
-package demoJavaClass;
+package dayone;
 
 public class Session_One {
 	String name = "Java Session 1";

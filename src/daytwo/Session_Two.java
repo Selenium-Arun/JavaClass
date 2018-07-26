@@ -1,4 +1,4 @@
-package demoJavaClass;
+package daytwo;
 
 /*Two types of datapes  primitive and non primitive
  * primitive types are 

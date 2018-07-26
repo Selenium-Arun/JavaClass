@@ -1,4 +1,4 @@
-package demoJavaClass;
+package daytwo;
 
 import java.util.Scanner;
 

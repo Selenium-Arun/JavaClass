@@ -4,7 +4,15 @@ public class StringDemo {
 /*
 * String Litrals
 * By using new keyword
-*/
+* 
+* /*String reverse "I am taking Java Classes"
+	 * sessalC
+	 * Classes Java taking am I
+	 * I Am Taking Java Classes
+	 * 
+	 * 
+	 * */
+
 
 	public static void main(String[] args) {
 		
@@ -28,6 +36,16 @@ public class StringDemo {
 		  sb.append(" Java class" );
 		
 		System.out.println(sb);
+		
+		String name = "Java";
+		
+		 name= name.concat(" classes                  ");
+		 
+		 System.out.println(name);
+		 System.out.println(name.length());
+		 System.out.println(name.charAt(5));
+		 System.out.println(name.trim());
+		System.out.println(name.isEmpty());
 
 	}
 

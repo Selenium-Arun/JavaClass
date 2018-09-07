@@ -6,8 +6,7 @@ public class Car extends Vehicle {
 		
 		
 	}
-	
-	
+		
 	void engine() {
 		System.out.println("2000CC Turbocharged engine");
 	}
